@@ -22,7 +22,7 @@ echo $_SERVER['HTTP_HOST'];//return the host header from the current request
 echo "<br>";
 echo $_SERVER['HTTP_REFERER'];//return complete URL of the current page
 echo "<br>";
-echo $_SERVER['HTTP_USER_AGENT'];//
+echo $_SERVER['HTTP_USER_AGENT'];
 echo "<br>";
 echo $_SERVER['SCRIPT_NAME'];//return the path of the current script
 ?>
